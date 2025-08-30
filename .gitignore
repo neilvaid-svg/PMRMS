@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+*.log
+coverage/
+playwright-report/
+test-results/
+.DS_Store
+.vscode/
+.idea/
+.prisma/
+pnpm-lock.yaml
